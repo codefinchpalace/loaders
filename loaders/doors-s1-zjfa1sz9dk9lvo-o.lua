@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/doors-s1-zjfa1sz9dk9lvo.lua"))()
