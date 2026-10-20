@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/megamind-new-potions-crazy-skeleton-rng-spam4-oqeuoo5mgujbmj.lua"))()
