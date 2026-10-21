@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/huss-valley-spam2-tyn6769khfvfm3.lua"))()
