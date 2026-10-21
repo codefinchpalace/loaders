@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/upd-paint-to-get-rich-spam4-ykaph4b9ibj8rc.lua"))()
