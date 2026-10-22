@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/path-2-mobile-dragon-generations-spam1-7jyei241jrpzs7.lua"))()
