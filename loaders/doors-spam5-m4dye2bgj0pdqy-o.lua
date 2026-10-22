@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/doors-spam5-m4dye2bgj0pdqy.lua"))()
