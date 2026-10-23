@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/criminality-spam0-bcsmwmb0l3l1zj.lua"))()
