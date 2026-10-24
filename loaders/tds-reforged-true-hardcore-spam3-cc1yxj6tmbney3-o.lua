@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/tds-reforged-true-hardcore-spam3-cc1yxj6tmbney3.lua"))()
