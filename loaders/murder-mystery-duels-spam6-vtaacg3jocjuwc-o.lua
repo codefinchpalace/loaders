@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/murder-mystery-duels-spam6-vtaacg3jocjuwc.lua"))()
