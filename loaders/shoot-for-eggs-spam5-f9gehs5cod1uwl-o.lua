@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/shoot-for-eggs-spam5-f9gehs5cod1uwl.lua"))()
