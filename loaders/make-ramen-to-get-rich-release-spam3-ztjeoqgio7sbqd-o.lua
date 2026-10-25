@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/make-ramen-to-get-rich-release-spam3-ztjeoqgio7sbqd.lua"))()
